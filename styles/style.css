@@ -50,6 +50,8 @@ li {
 
 .description {
   font-style: italic;
+  padding-left: 5%;
+  padding-right: 5%;
 }
   
 footer {
