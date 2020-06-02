@@ -3,7 +3,7 @@
   }
 
 body {
-  margin: 0;
+  margin-top: 100px;
   padding: 0;
   background: #eee;
 }
@@ -56,10 +56,8 @@ li {
   margin-top: 100px;
 }
 
-.detail-container 
 
 .about {
-  margin: 0;
   padding-top: 10%;
   padding: 16%;
 }
@@ -141,11 +139,6 @@ address {
   button {
     margin-bottom: 1.2rem;
   }
-
-  .btn {
-    border: 1 black;
-  }
-
   
   .web-stat {
     display: none;
