@@ -52,15 +52,22 @@ li {
   font-size: 1.5em;
 }
   
+.detail-container {
+  margin-top: 100px;
+}
+
+.detail-container 
+
 .about {
   margin: 0;
-  width: 100%;
-  background: rgba(255, 255, 255, 0.89);
+  padding-top: 10%;
   padding: 16%;
 }
   
 .about p {
   text-align: center;
+  width: 100%;
+  background: rgba(255, 255, 255, 0.89);
   font-size: 1em;
   font-style: italic;
 }
@@ -125,10 +132,18 @@ address {
   
   
   @media (max-width: 400px) {
-    .btn.filter {
+    .btn.filter-button {
       padding-left: 1.1rem;
       padding-right: 1.1rem;
     }
+  }
+
+  button {
+    margin-bottom: 1.2rem;
+  }
+
+  .btn {
+    border: 1 black;
   }
 
   
