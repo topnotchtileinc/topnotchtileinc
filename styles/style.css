@@ -197,3 +197,7 @@ img.zoom {
     }
     }
 
+.filter-bar {
+  display: block;
+  text-align: center;
+}
