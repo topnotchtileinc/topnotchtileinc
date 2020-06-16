@@ -31,21 +31,17 @@ li {
   
 #titlePage {
   margin-top: -100px;
-  padding-top: 200px;
+  padding-top: 120px;
   text-align: center;
-  height: 600px;
+  height: 700px;
   text-align: center;
-  color: rgb(217, 226, 255);
+  color: rgb(219, 223, 224);
   background: rgba(73, 74, 77, 0.829);
 }
   
-.company-name h1 {
-  font-size: 6.0em;
-  font-family: "Cinzel", serif;
-}
-
-.company-name h2 {
-  font-size: 1.5em;
+.company-name img {
+  height: 400px;
+  width: 400px;
 }
 
 .description {
